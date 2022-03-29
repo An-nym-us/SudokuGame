@@ -1,0 +1,4 @@
+﻿  project13.cpp
+C:\Users\jlgun\Documents\Schoolwork\zzz old classes\CS 124\Project 11 - 13 Sudoko\Project 13\project11\project13.cpp(277,9): warning C4101: 'rowChar': unreferenced local variable
+C:\Users\jlgun\Documents\Schoolwork\zzz old classes\CS 124\Project 11 - 13 Sudoko\Project 13\project11\project13.cpp(625,9): warning C4101: 'temp': unreferenced local variable
+  project11.vcxproj -> C:\Users\jlgun\Documents\Schoolwork\zzz old classes\CS 124\Project 11 - 13 Sudoko\Project 13\project11\Debug\project11.exe
